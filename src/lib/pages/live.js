@@ -2,6 +2,7 @@
  * @fileoveriew Entrypoint for web.dev LIVE page.
  */
 
+import '../components/LivestreamContainer';
 import '../components/EventTime';
 import '../components/Subscribe';
 import '../components/ShareAction';
